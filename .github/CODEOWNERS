@@ -5,7 +5,7 @@
 
 # In a true org structure, this line would be something like: "app-fqdn-rules.tf @<secops>"
 app-fqdn-rules.tf @<secops>
-app-fqdn-rules.tf @ace-secops
+app-fqdn-rules.tf @jerryu-cn
 
 # In a true org structure, these files should have the Network Operators account as the owner:
 main.tf @netops
